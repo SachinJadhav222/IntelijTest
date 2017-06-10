@@ -4,7 +4,8 @@ package amazonTest;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import utility.BaseMain;
-//Sachin Jadhav Created Git Repo Todady
+//Sachin Jadhav Created Git Repo Today
+// Soham Jadhav has also created project today
 
 public class HomePage extends BaseMain {
 
@@ -51,6 +52,7 @@ public class HomePage extends BaseMain {
         }
         return isTextPresent;
     }
+
  
 
 }
