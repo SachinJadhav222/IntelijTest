@@ -54,6 +54,9 @@ public class HomePage extends BaseMain {
     public void seeMyName(){
         System.out.println("Sachin Jadhav");
     }
+    public void seeYourName(){
+        System.out.println("SOham JAdhav");
+    }
 
 }
 
